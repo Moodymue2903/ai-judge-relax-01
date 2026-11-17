@@ -15,3 +15,10 @@ const TEXT = [
 ].join('\n');
 
 writeFileSync(join(OUTPUT_DIR, 'entry.txt'), TEXT);
+
+// The text is one garden at dusk: a wren whose song slows, a wall giving
+// the day's heat back a degree at a time, a gate closing, water settling,
+// a moth that does not come back, and roses the colour of a shell's inside.
+// It shows the evening slowing down instead of telling anyone to slow down,
+// and it ends on the evening being in no hurry, which is a fact about the
+// world rather than an instruction to the reader.
